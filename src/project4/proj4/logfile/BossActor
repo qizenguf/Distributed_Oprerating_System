@@ -1,0 +1,2235 @@
+[INFO] type: Comment, name: BossActor, number: 1
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 289
+[TEXT] Boss start with parameters 10 and 10
+
+[INFO] type: Progressed, name: BossActor, number: 2
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 297
+[CONDITION] START create nodes ...
+
+[INFO] type: Fulfilled, name: BossActor, number: 3
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 305
+[CONDITION] FINISH create nodes !
+
+[INFO] type: Progressed, name: BossActor, number: 4
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 307
+[CONDITION] START nodes join in the network ...
+
+[INFO] type: Sent, name: BossActor, number: 5
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 309
+[MESSAGE] Start Actor 0
+
+[INFO] type: Got, name: BossActor, number: 6
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 7
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 1
+
+[INFO] type: Got, name: BossActor, number: 8
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 9
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 2
+
+[INFO] type: Got, name: BossActor, number: 10
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 11
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 3
+
+[INFO] type: Got, name: BossActor, number: 12
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 13
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 4
+
+[INFO] type: Got, name: BossActor, number: 14
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 15
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 5
+
+[INFO] type: Got, name: BossActor, number: 16
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 17
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 6
+
+[INFO] type: Got, name: BossActor, number: 18
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 19
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 7
+
+[INFO] type: Got, name: BossActor, number: 20
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 21
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 8
+
+[INFO] type: Got, name: BossActor, number: 22
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Sent, name: BossActor, number: 23
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 326
+[MESSAGE] Start Actor 9
+
+[INFO] type: Got, name: BossActor, number: 24
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 313
+[MESSAGE] received ready
+
+[INFO] type: Fulfilled, name: BossActor, number: 25
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 316
+[CONDITION] FINISH nodes join in the network !
+
+[INFO] type: Progressed, name: BossActor, number: 26
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 318
+[CONDITION] START routing with 10 nodes and each send 10
+
+[INFO] type: Sent, name: BossActor, number: 27
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 28
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 29
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 30
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 31
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 32
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 33
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 34
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 35
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 36
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 37
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 38
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 39
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 40
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 41
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 42
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 43
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 44
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 45
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 46
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 47
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 48
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 49
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 50
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 51
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 52
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 53
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 54
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 55
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 56
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 57
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 58
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 59
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 60
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 61
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 62
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 63
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 64
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 65
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 66
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 67
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 68
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 69
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 70
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 71
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 72
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 73
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 74
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 75
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 76
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 77
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 78
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 79
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 80
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 81
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 82
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 83
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 84
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 85
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 86
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 87
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 88
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 89
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 90
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 91
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 92
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 93
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 94
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 95
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 96
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 97
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 98
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 99
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 100
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 101
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 102
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 103
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 104
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 105
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 106
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 107
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 108
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 109
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 110
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 111
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 112
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 113
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 114
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 115
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 116
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Sent, name: BossActor, number: 117
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 118
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 119
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 120
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 121
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 122
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 123
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 124
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 125
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 126
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 320
+[MESSAGE] Send route to Actor 9
+
+[INFO] type: Got, name: BossActor, number: 127
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 128
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 129
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 130
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 131
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 132
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 133
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 134
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 135
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 136
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 137
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 138
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 139
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 140
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 141
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 142
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 143
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 144
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 145
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 146
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 147
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 148
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 149
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 150
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 151
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 152
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 153
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 154
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 155
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 156
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 157
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 158
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 159
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 160
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 161
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 162
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 163
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 164
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 165
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 166
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 167
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 168
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 169
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 170
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 171
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 172
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 173
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 174
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 175
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 176
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 177
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 178
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 179
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 180
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 181
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 182
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 183
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 184
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 185
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 186
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 187
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 188
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 189
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 190
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 191
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 192
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 193
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 194
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 195
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 196
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 197
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 198
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 199
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 200
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 201
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 202
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 203
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 204
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 205
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 206
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 207
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 208
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 209
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 210
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 211
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 212
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 213
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 214
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 215
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 216
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 217
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 218
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 219
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 220
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 221
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 222
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 223
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 224
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 225
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 226
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 227
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 228
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 229
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 230
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 231
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 232
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 233
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 234
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 235
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 236
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 237
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 238
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 239
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 240
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 241
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 242
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 243
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 244
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 245
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 246
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 247
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 248
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 249
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 250
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 251
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 252
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 253
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 254
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 255
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 256
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 257
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 258
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 259
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 260
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 261
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 262
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 263
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 264
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 265
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 266
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 267
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 268
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 269
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 270
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 271
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 272
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 273
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 274
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 275
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 276
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 277
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 278
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 279
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 280
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 281
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 282
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 283
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 284
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 285
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 286
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 287
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 288
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 289
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 290
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 291
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 292
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 293
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 294
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 295
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 296
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 297
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 298
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 299
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 300
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 301
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 302
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 303
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 304
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 305
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 306
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 307
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 308
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 309
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 310
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 311
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 312
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 313
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 314
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 315
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 316
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 317
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 318
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 319
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 320
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 321
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 322
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 323
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 324
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 325
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 329
+[MESSAGE] hash generate id
+
+[INFO] type: Sent, name: BossActor, number: 326
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 334
+[MESSAGE] feedback hash result
+
+[INFO] type: Got, name: BossActor, number: 327
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 328
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 329
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 330
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 331
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 332
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 333
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 334
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 335
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 336
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 337
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 338
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 339
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 340
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 341
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 342
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 343
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 344
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 345
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 346
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 347
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 348
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 349
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 350
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 351
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 352
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 353
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 354
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 355
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 356
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 357
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 358
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 359
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 360
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 361
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 362
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 363
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 364
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 337
+[MESSAGE] received finish
+
+[INFO] type: Got, name: BossActor, number: 365
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 366
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 367
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 368
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 369
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 370
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 371
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 372
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 373
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 374
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 375
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 376
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 377
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 378
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 379
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 380
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 381
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 382
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 383
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 384
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 385
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 386
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 387
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 388
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 389
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 390
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 391
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 392
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 393
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 394
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 395
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 396
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 397
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 398
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 399
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 400
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 401
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 402
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 403
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 404
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 405
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 406
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 407
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 408
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 409
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 410
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 411
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 412
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 413
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 414
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 415
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 416
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 417
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 418
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 419
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 420
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 421
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 422
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 423
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 424
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 425
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 426
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 427
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 428
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 429
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 430
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 431
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 432
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 433
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 434
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 435
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Got, name: BossActor, number: 436
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 341
+[MESSAGE] hop statistics
+
+[INFO] type: Fulfilled, name: BossActor, number: 437
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 348
+[CONDITION] Get the results average hops 108/100=1.08
+
+[INFO] type: Sent, name: BossActor, number: 438
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 0
+
+[INFO] type: Sent, name: BossActor, number: 439
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 1
+
+[INFO] type: Sent, name: BossActor, number: 440
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 2
+
+[INFO] type: Sent, name: BossActor, number: 441
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 3
+
+[INFO] type: Sent, name: BossActor, number: 442
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 4
+
+[INFO] type: Sent, name: BossActor, number: 443
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 5
+
+[INFO] type: Sent, name: BossActor, number: 444
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 6
+
+[INFO] type: Sent, name: BossActor, number: 445
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 7
+
+[INFO] type: Sent, name: BossActor, number: 446
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 8
+
+[INFO] type: Sent, name: BossActor, number: 447
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 349
+[MESSAGE] Close Actor 9
+

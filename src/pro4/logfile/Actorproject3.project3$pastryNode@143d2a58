@@ -1,0 +1,124 @@
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 1
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] neForm(MutableList((c4ca4238,1), (eccbc87e,3), (a87ff679,4), (e4da3b7f,5), (1679091c,6), (cfcd2084,0), (8f14e45f,7)))  from  project3.project3$pastryNode@38bb5aa9
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 2
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] newNode(8f14e45f,7)  from  project3.project3$pastryNode@38bb5aa9
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 3
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] rtForm(1,[Lscala.Tuple2;@33c12f86)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 4
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] newNode(c4ca4238,1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 5
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] lfForm([Lscala.Tuple2;@501720f5,c81e728d,2)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 6
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] join(45c48cce,0,9)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 7
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] newNode(45c48cce,9)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 8
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 9
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 10
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 11
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 12
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 13
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 14
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 15
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 16
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 17
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 18
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(8f14e45f)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 19
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route(c9f0f895,1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 20
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route(c9f0f895,1)  from  project3.project3$pastryNode@1aec9361
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 21
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(a87ff679)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 22
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(c81e728d)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 23
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(eccbc87e)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 24
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] route(c9f0f895,1)  from  project3.project3$pastryNode@1aec9361
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 25
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(c4ca4238)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 26
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(c81e728d)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 27
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(45c48cce)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 28
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(eccbc87e)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 29
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(1679091c)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 30
+[TIME] 2012-11-19 18:12:55
+[MESSAGE] hashvalue(c81e728d)  from  project3.project3$Boss@594f49e
+
+[INFO] type: Got, name: Actorproject3.project3$pastryNode@143d2a58, number: 31
+[TIME] 2012-11-19 18:12:56
+[MESSAGE] close  from  project3.project3$Boss@594f49e
+

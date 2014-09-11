@@ -1,0 +1,388 @@
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 1
+[TIME] 2012-11-19 18:12:49
+[MESSAGE] ready  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 2
+[TIME] 2012-11-19 18:12:49
+[MESSAGE] ready  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 3
+[TIME] 2012-11-19 18:12:49
+[MESSAGE] ready  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 4
+[TIME] 2012-11-19 18:12:49
+[MESSAGE] ready  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 5
+[TIME] 2012-11-19 18:12:49
+[MESSAGE] ready  from  project3.project3$pastryNode@6d57bbd4
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 6
+[TIME] 2012-11-19 18:12:49
+[MESSAGE] ready  from  project3.project3$pastryNode@1aec9361
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 7
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] ready  from  project3.project3$pastryNode@21bfd316
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 8
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] ready  from  project3.project3$pastryNode@38bb5aa9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 9
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] ready  from  project3.project3$pastryNode@143d2a58
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 10
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] ready  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 11
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(9)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 12
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(2)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 13
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(3)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 14
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(6)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 15
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(7)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 16
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(7)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 17
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 18
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 19
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(7)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 20
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(1)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 21
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(8)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 22
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(5)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 23
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(5)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 24
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(7)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 25
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 26
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(3)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 27
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 28
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(9)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 29
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(1)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 30
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 31
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(8)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 32
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 33
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 34
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 35
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(9)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 36
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(3)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 37
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(2)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 38
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(7)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 39
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(7)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 40
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(5)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 41
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(2)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 42
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(7)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 43
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 44
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 45
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(8)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 46
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(2)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 47
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(8)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 48
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 49
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(5)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 50
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(9)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 51
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 52
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(6)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 53
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(4)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 54
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(2)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 55
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(8)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 56
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(6)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 57
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(3)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 58
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(8)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 59
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 60
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 61
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 62
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 63
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(6)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 64
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] findhash(2)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 65
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 66
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 67
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 68
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 69
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 70
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 71
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 72
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 73
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 74
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 75
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 76
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 77
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 78
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 79
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 80
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 81
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 82
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 83
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 84
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(2)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 85
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 86
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 87
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 88
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@5249d560
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 89
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 90
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@24150b2d
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 91
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 92
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 93
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@3ba701c9
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 94
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 95
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@65596e13
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 96
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(2)  from  project3.project3$pastryNode@12bfaa9a
+
+[INFO] type: Got, name: Actorproject3.project3$Boss@7647b3ee, number: 97
+[TIME] 2012-11-19 18:12:50
+[MESSAGE] HOP(1)  from  project3.project3$pastryNode@3ba701c9
+

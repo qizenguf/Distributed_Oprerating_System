@@ -1,0 +1,205 @@
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 1
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] lfForm([Lscala.Tuple2;@7a36b7cc,c4ca4238,1)
+[FROM] Actor_example_bonus$pastryNode@172036a1
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 2
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] join(eccbc87e,0,3)
+[FROM] Actor_example_bonus$pastryNode@4f54a2e6
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 3
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(eccbc87e,3)
+[FROM] Actor_example_bonus$pastryNode@4f54a2e6
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 4
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(eccbc87e,3)
+[FROM] Actor_example_bonus$pastryNode@4f54a2e6
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 5
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(eccbc87e,3)
+[FROM] Actor_example_bonus$pastryNode@4f54a2e6
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 6
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(a87ff679,4)
+[FROM] Actor_example_bonus$pastryNode@3d92d2ba
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 7
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(a87ff679,4)
+[FROM] Actor_example_bonus$pastryNode@3d92d2ba
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 8
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(e4da3b7f,5)
+[FROM] Actor_example_bonus$pastryNode@7248d0ea
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 9
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(e4da3b7f,5)
+[FROM] Actor_example_bonus$pastryNode@7248d0ea
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 10
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(1679091c,6)
+[FROM] Actor_example_bonus$pastryNode@a8bed44
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 11
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(1679091c,6)
+[FROM] Actor_example_bonus$pastryNode@a8bed44
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 12
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(8f14e45f,7)
+[FROM] Actor_example_bonus$pastryNode@688610c4
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 13
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(8f14e45f,7)
+[FROM] Actor_example_bonus$pastryNode@688610c4
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 14
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] join(c9f0f895,2,8)
+[FROM] Actor_example_bonus$pastryNode@172036a1
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 15
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(c9f0f895,8)
+[FROM] Actor_example_bonus$pastryNode@39b6e978
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 16
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(c9f0f895,8)
+[FROM] Actor_example_bonus$pastryNode@39b6e978
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 17
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(45c48cce,9)
+[FROM] Actor_example_bonus$pastryNode@1799e2e2
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 18
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] newNode(45c48cce,9)
+[FROM] Actor_example_bonus$pastryNode@1799e2e2
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 19
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 20
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 21
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 22
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 23
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 24
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 25
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 26
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 27
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 28
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 29
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(8f14e45f)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 30
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(8f14e45f)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 31
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(a87ff679)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 32
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route(c9f0f895,1)
+[FROM] Actor_example_bonus$pastryNode@4f54a2e6
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 33
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(1679091c)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 34
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(45c48cce)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 35
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(eccbc87e)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 36
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(8f14e45f)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 37
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] route(c9f0f895,1)
+[FROM] Actor_example_bonus$pastryNode@4f54a2e6
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 38
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(c9f0f895)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 39
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(45c48cce)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 40
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] hashvalue(eccbc87e)
+[FROM] Actor_example_bonus$Boss@4febe3f0
+
+[INFO] type: Got, name: Actor_example_bonus$pastryNode@43e28fe3, number: 41
+[TIME] 2012-11-20 11:50:28
+[MESSAGE] close
+[FROM] Actor_example_bonus$Boss@4febe3f0
+

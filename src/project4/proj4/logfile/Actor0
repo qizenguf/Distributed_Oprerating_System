@@ -1,0 +1,455 @@
+[INFO] type: Comment, name: Actor0, number: 1
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 26
+[TEXT] actor 0 start with assigned nodeID: cfcd2084
+
+[INFO] type: Sent, name: Actor0, number: 2
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 35
+[MESSAGE] Send ready to boss
+
+[INFO] type: Got, name: Actor0, number: 3
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 43
+[MESSAGE] Receive join
+
+[INFO] type: Sent, name: Actor0, number: 4
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 58
+[MESSAGE] Send lfForm to actor 1
+
+[INFO] type: Got, name: Actor0, number: 5
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 6
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 7
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 8
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 9
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 43
+[MESSAGE] Receive join
+
+[INFO] type: Sent, name: Actor0, number: 10
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 58
+[MESSAGE] Send lfForm to actor 3
+
+[INFO] type: Got, name: Actor0, number: 11
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 12
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 13
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 14
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 15
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 16
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 17
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 18
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 19
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 43
+[MESSAGE] Receive join
+
+[INFO] type: Sent, name: Actor0, number: 20
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 49
+[MESSAGE] Send join to actor 1
+
+[INFO] type: Sent, name: Actor0, number: 21
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 52
+[MESSAGE] Send rtForm to actor 7
+
+[INFO] type: Sent, name: Actor0, number: 22
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 53
+[MESSAGE] Send newNode to actor 7
+
+[INFO] type: Got, name: Actor0, number: 23
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 24
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 25
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 26
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 27
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 28
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 61
+[MESSAGE] Receive newNode
+
+[INFO] type: Got, name: Actor0, number: 29
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 30
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 31
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 32
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 33
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 34
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 35
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 36
+[TIME] 2012-11-20 10:43:57
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 37
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 38
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 39
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 40
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 41
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 42
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 43
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 44
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 45
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 46
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 47
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 48
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 118
+[MESSAGE] Send findhash to boss
+
+[INFO] type: Got, name: Actor0, number: 49
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 50
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 51
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 52
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Sent, name: Actor0, number: 53
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 121
+[MESSAGE] Send finish to boss
+
+[INFO] type: Got, name: Actor0, number: 54
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 55
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 56
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 57
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 58
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 59
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 60
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 61
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 62
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 63
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 64
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 65
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 66
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 67
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 68
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 69
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 70
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 71
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 72
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 73
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 74
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 75
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 76
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 77
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 78
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 79
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 80
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 81
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 82
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 83
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 84
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 85
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 86
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 126
+[MESSAGE] Receive hashvalue
+
+[INFO] type: Sent, name: Actor0, number: 87
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 132
+[MESSAGE] Send HOP to boss
+
+[INFO] type: Sent, name: Actor0, number: 88
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 133
+[MESSAGE] Send route to self
+
+[INFO] type: Got, name: Actor0, number: 89
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 112
+[MESSAGE] Receive route
+
+[INFO] type: Got, name: Actor0, number: 90
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 150
+[MESSAGE] Receive close
+
+[INFO] type: Comment, name: Actor0, number: 91
+[TIME] 2012-11-20 10:43:58
+[TRACE] source: example.scala, span: 151
+[TEXT] close the actor 0
+

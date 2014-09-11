@@ -1,0 +1,52 @@
+case class im_over(rID: Int)
+case class push_sum(SS: Double, WW: Double)
+
+class staff(neighbor:MutableList[Int], id:Int, Sta:Array[staff] ) extends Actor {
+  def act{
+    var s:Double = id
+    var w:Double = 1
+    var r0:Double = s/w
+    var converge_count = 0
+    loop{
+      react{
+        case push_sum(SS, WW) =>
+          s = (SS+s)/2
+          w = (WW+w)/2
+          val t = neighbor(Random.nextInt(neighbor.length))
+          Sta(t) ! push_sum(s, w)
+          if ((s/w-r0)<1e-10) converge_count+=1
+          r0 = s/w
+          if (converge_count==3){
+            println("Actor No."+id.toString+" is over")
+            for (i <- 0 until neighbor.length) Sta(neighbor(i)) ! im_over(id)
+            exit()
+          }
+        case im_over(rID) =>
+          neighbor = neighbor filter (_ != rID)
+          if(neighbor.isEmpty){ 
+            println("Actor No."+id.toString+" is over")
+            exit()
+          }       
+      }
+    }
+  }
+}
+
+class starter(actornum: Int) extends Actor {
+  def act{
+    val b = System.currentTimeMillis
+   // Sta(0) ! push_sum(0,0)
+    Sta(0) ! rumor
+    var acc = 0
+    loop{
+      react{
+        case im_over(rID) =>
+          acc += (rID+1)
+          if (acc == (actornum*(actornum+1)/2)){ 
+            println(b-System.currentTimeMillis)
+            exit()
+          }
+      }
+    }
+  }
+}

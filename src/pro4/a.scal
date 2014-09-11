@@ -1,0 +1,27 @@
+//Following is a code for a logReact Method that does the same thing as react but also logs the message received hope this works for you
+import scala.actors.Actor;
+import scala.actors.Actor._
+
+trait ActorLogging extends Actor {
+    abstract override def react(handler: PartialFunction[Any, Unit]): Nothing = {
+        val handler2: PartialFunction[Any, Unit] = {
+            case x =>
+                println("Inside Logs -- with message recieved  -- " + x.toString);
+                handler.apply(x);
+        }
+        super.react(handler2)
+    }
+}
+
+class LogActor extends Actor with ActorLogging {
+    def act() {
+        loop {
+            react {
+                case a: Int =>
+                    println("Inside actor Sum Act Received the message -- " + a)
+                    exit;
+            }
+        }
+    }
+}
+
